@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:ov="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="TaskPaneApp">
   <Id>f4a46423-7efe-439e-adad-b91b4122876c</Id>
-  <Version>1.0.6.0</Version>
+  <Version>1.0.7.0</Version>
   <ProviderName>Hữu Thắng</ProviderName>
   <DefaultLocale>vi-VN</DefaultLocale>
   <DisplayName DefaultValue="Hồ sơ Giao khoán"/>
   <Description DefaultValue="Lập hợp đồng giao khoán nhân công, biên bản nghiệm thu, bảng thanh toán, thanh lý – có bản quyền, mã kích hoạt theo máy."/>
-  <IconUrl DefaultValue="https://github.com/congviecxda/giaokhoan.git/assets/icon-32.png"/>
-  <HighResolutionIconUrl DefaultValue="https://github.com/congviecxda/giaokhoan.git/assets/icon-64.png"/>
-  <SupportUrl DefaultValue="https://github.com/congviecxda/giaokhoan.git/taskpane.html"/>
+  <IconUrl DefaultValue="https://congviecxda.github.io/giaokhoan/assets/icon-32.png"/>
+  <HighResolutionIconUrl DefaultValue="https://congviecxda.github.io/giaokhoan/assets/icon-64.png"/>
+  <SupportUrl DefaultValue="https://congviecxda.github.io/giaokhoan/taskpane.html"/>
   <AppDomains>
-    <AppDomain>https://github.com</AppDomain>
+    <AppDomain>https://congviecxda.github.io</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Workbook"/>
@@ -21,7 +21,7 @@
     </Sets>
   </Requirements>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://github.com/congviecxda/giaokhoan.git/taskpane.html"/>
+    <SourceLocation DefaultValue="https://congviecxda.github.io/giaokhoan/taskpane.html"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
@@ -67,13 +67,13 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="GK.Icon.16" DefaultValue="https://github.com/congviecxda/giaokhoan.git/assets/icon-16.png"/>
-        <bt:Image id="GK.Icon.32" DefaultValue="https://github.com/congviecxda/giaokhoan.git/assets/icon-32.png"/>
-        <bt:Image id="GK.Icon.80" DefaultValue="https://github.com/congviecxda/giaokhoan.git/assets/icon-80.png"/>
+        <bt:Image id="GK.Icon.16" DefaultValue="https://congviecxda.github.io/giaokhoan/assets/icon-16.png"/>
+        <bt:Image id="GK.Icon.32" DefaultValue="https://congviecxda.github.io/giaokhoan/assets/icon-32.png"/>
+        <bt:Image id="GK.Icon.80" DefaultValue="https://congviecxda.github.io/giaokhoan/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="GK.Commands.Url" DefaultValue="https://github.com/congviecxda/giaokhoan.git/commands.html"/>
-        <bt:Url id="GK.Taskpane.Url" DefaultValue="https://github.com/congviecxda/giaokhoan.git/taskpane.html"/>
+        <bt:Url id="GK.Commands.Url" DefaultValue="https://congviecxda.github.io/giaokhoan/commands.html"/>
+        <bt:Url id="GK.Taskpane.Url" DefaultValue="https://congviecxda.github.io/giaokhoan/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GK.GetStarted.Title" DefaultValue="Hồ sơ Giao khoán đã sẵn sàng"/>
