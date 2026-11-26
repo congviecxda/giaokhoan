@@ -1,4 +1,4 @@
-THƯ MỤC PHÁT HÀNH – HỒ SƠ GIAO KHOÁN 1.1.1.0
+THƯ MỤC PHÁT HÀNH – HỒ SƠ GIAO KHOÁN 1.1.2.0
 
 1. Đưa TOÀN BỘ thư mục này lên địa chỉ: https://congviecxda.github.io/giaokhoan/
    (kiểm tra: mở https://congviecxda.github.io/giaokhoan/ phải thấy màn hình đăng nhập)
